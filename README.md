@@ -14,5 +14,5 @@ Corre los watch de Node (nodemon) y de React
 
 ### Otros scripts  
 `npm start` Corre el watch de React  
-`npm run build` Realiza el build
+`npm run build` Realiza el build  
 `npm run server` Inicia la aplicación de Node
