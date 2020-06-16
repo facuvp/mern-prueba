@@ -4,7 +4,7 @@ Instalar MongoDB (https://www.mongodb.com/try/download/community);
 ### `mongod`
 Correr `mongod` en la consola o terminal   
 
-## NPM 
+## npm 
 ### `npm install` 
 Instalar packages   
 
